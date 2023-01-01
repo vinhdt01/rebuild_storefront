@@ -64,7 +64,7 @@
     "@types/cleave.js": "1.4.4",
     "@types/js-cookie": "2.2.6",
     "@types/lodash": "4.14.168",
-    "@types/node": "15.0.2",
+    "@types/node": "16.16.0",
     "@types/overlayscrollbars": "1.12.0",
     "@types/react": "17.0.3",
     "@types/react-mailchimp-subscribe": "2.1.1",
