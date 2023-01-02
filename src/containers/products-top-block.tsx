@@ -1,5 +1,5 @@
 import ProductCard from "@components/product/product-card";
-import { usePopularProductsQuery } from "@framework/products/popular-products.query";
+// import { usePopularProductsQuery } from "@framework/products/popular-products.query";
 import ProductListFeedLoader from "@components/ui/loaders/product-list-feed-loader";
 import SectionHeader from "@components/common/section-header";
 import Alert from "@components/ui/alert";
