@@ -117,7 +117,7 @@ import "react-toastify/dist/ReactToastify.css";
 // import "@styles/custom-plugins.css";
 // import "@styles/tailwind.css";
 
-import BannerCard from "@components/common/banner-card";
+// import BannerCard from "@components/common/banner-card";
 import {
   classicDemoBanner as banner,
   classicDemoProductBanner as productBanner,
@@ -149,12 +149,12 @@ return (
       />
               <CategoryBlock sectionHeading="text-shop-by-category" />
 
- <BannerCard
+<!--  <BannerCard
           data={bannerThree}
           href='#'
           className="mb-11 md:mb-12 lg:mb-14 2xl:mb-16"
           effectActive={true}
-        />
+        /> -->
   <BannerSliderBlock data={promotionBanner} />      
       </>
 )
