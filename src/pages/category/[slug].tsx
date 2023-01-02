@@ -5,7 +5,7 @@ import CategoryBanner from "@containers/category-banner";
 import { useRouter } from "next/router";
 import CategoryProductsGrid from "@components/category/category-products-grid";
 
-export { getStaticPaths, getStaticProps } from "@framework/ssr/category";
+// export { getStaticPaths, getStaticProps } from "@framework/ssr/category";
 
 export default function Category() {
   const { query } = useRouter();
