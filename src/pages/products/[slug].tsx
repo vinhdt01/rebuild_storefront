@@ -1,9 +1,9 @@
 import Container from "@components/ui/container";
 import { getLayout } from "@components/layout/layout";
-import Subscription from "@components/common/subscription";
+// import Subscription from "@components/common/subscription";
 import ProductSingleDetails from "@components/product/product-single-details";
 import Divider from "@components/ui/divider";
-import Breadcrumb from "@components/common/breadcrumb";
+// import Breadcrumb from "@components/common/breadcrumb";
 import { useRouter } from "next/router";
 import Spinner from "@components/ui/loaders/spinner/spinner";
 import dynamic from "next/dynamic";
