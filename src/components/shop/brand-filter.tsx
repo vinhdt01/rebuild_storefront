@@ -1,9 +1,9 @@
 import { CheckBox } from "@components/ui/checkbox";
-import { useBrandsInfiniteQuery } from "@framework/brand/brands.query";
+// import { useBrandsInfiniteQuery } from "@framework/brand/brands.query";
 import { useRouter } from "next/router";
 import React from "react";
 import { useTranslation } from "next-i18next";
-import { Type } from "@framework/types";
+// import { Type } from "@framework/types";
 import Button from "@components/ui/button";
 
 export const BrandFilter = () => {
