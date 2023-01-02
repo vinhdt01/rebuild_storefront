@@ -3,7 +3,7 @@ import VendorCard from "@components/common/vendor-card";
 import Alert from "@components/ui/alert";
 import { BsGridFill } from "@react-icons/all-files/bs/BsGridFill";
 import { BsList } from "@react-icons/all-files/bs/BsList";
-import { useShopsQuery } from "@framework/shops/shops.query";
+// import { useShopsQuery } from "@framework/shops/shops.query";
 import Button from "@components/ui/button";
 import { useTranslation } from "next-i18next";
 
