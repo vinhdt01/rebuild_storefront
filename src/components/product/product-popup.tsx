@@ -11,7 +11,7 @@ import { generateCartItem } from "@utils/generate-cart-item";
 import usePrice from "@lib/use-price";
 import { getVariations } from "@framework/utils/get-variations";
 import { useTranslation } from "next-i18next";
-import { useProductQuery } from "@framework/products/products.query";
+// import { useProductQuery } from "@framework/products/products.query";
 import isEqual from "lodash/isEqual";
 import Spinner from "@components/ui/loaders/spinner/spinner";
 import VariationPrice from "@components/product/product-variant-price";
