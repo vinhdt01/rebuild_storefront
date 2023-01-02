@@ -2,7 +2,7 @@ import { CheckBox } from "@components/ui/checkbox";
 import { useRouter } from "next/router";
 import React from "react";
 import { useTranslation } from "next-i18next";
-import { Attribute, AttributeValue } from "@framework/types";
+// import { Attribute, AttributeValue } from "@framework/types";
 
 type Props = {
   attribute: Attribute
