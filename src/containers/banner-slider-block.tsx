@@ -1,8 +1,8 @@
-import BannerCard from "@components/common/banner-card";
+// import BannerCard from "@components/common/banner-card";
 import Carousel from "@components/ui/carousel/carousel";
 import { SwiperSlide } from "swiper/react";
 import { ROUTES } from "@lib/routes";
-import { StaticBanner } from "@framework/types";
+// import { StaticBanner } from "@framework/types";
 
 interface BannerProps {
   data: StaticBanner[];
