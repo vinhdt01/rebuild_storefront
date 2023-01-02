@@ -1,14 +1,14 @@
 import Container from "@components/ui/container";
 import { getLayout } from "@components/layout/layout";
-import Subscription from "@components/common/subscription";
+// import Subscription from "@components/common/subscription";
 import StickyBox from "react-sticky-box";
 import ActiveLink from "@components/ui/active-link";
-import { BreadcrumbItems } from "@components/common/breadcrumb";
+// import { BreadcrumbItems } from "@components/common/breadcrumb";
 import { ROUTES } from "@lib/routes";
 import { useTranslation } from "next-i18next";
-import { CollectionFilters } from "@components/collection/collection-filters";
+// import { CollectionFilters } from "@components/collection/collection-filters";
 import {useRouter} from "next/router";
-import CollectionProductsBlock from "@components/collection/collection-products-block";
+// import CollectionProductsBlock from "@components/collection/collection-products-block";
 
 export { getStaticPaths, getStaticProps } from "@framework/ssr/tags";
 
