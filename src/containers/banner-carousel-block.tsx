@@ -1,4 +1,4 @@
-import BannerCard from "@components/common/banner-card";
+// import BannerCard from "@components/common/banner-card";
 import Carousel from "@components/ui/carousel/carousel";
 import { SwiperSlide } from "swiper/react";
 import { ROUTES } from "@lib/routes";
