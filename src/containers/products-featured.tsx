@@ -75,7 +75,7 @@
 
 import SectionHeader from "@components/common/section-header";
 import ProductOverlayCard from "@components/product/product-overlay-card";
-import { useProductsQuery } from "@framework/products/products.query";
+// import { useProductsQuery } from "@framework/products/products.query";
 import Alert from "@components/ui/alert";
 import { Product } from "@framework/types";
 import Spinner from "@components/ui/loaders/spinner/spinner";
