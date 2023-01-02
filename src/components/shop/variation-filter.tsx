@@ -1,7 +1,7 @@
 import { CheckBox } from "@components/ui/checkbox";
 import { useRouter } from "next/router";
 import React from "react";
-import { AttributeValue, Attribute } from "@framework/types";
+// import { AttributeValue, Attribute } from "@framework/types";
 
 type Props = {
   attribute: Attribute
