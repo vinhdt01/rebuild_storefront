@@ -190,7 +190,7 @@ import Carousel from "@components/ui/carousel/carousel";
 import CardLoader from "@components/ui/loaders/card-loader";
 import CardRoundedLoader from "@components/ui/loaders/card-rounded-loader";
 import CardIconLoader from "@components/ui/loaders/card-icon-loader";
-import { useCategoriesQuery } from "@framework/category/categories.query";
+// import { useCategoriesQuery } from "@framework/category/categories.query";
 import { ROUTES } from "@lib/routes";
 import Alert from "@components/ui/alert";
 import { SwiperSlide } from "swiper/react";
