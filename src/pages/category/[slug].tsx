@@ -1,6 +1,6 @@
 import Container from "@components/ui/container";
 import { getLayout } from "@components/layout/layout";
-import Subscription from "@components/common/subscription";
+// import Subscription from "@components/common/subscription";
 import CategoryBanner from "@containers/category-banner";
 import { useRouter } from "next/router";
 import CategoryProductsGrid from "@components/category/category-products-grid";
