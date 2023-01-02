@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Button from "@components/ui/button";
 import Counter from "@components/common/counter";
-import { getVariations } from "@framework/utils/get-variations";
+// import { getVariations } from "@framework/utils/get-variations";
 import { useCart } from "@store/quick-cart/cart.context";
 import usePrice from "@lib/use-price";
 import { generateCartItem } from "@utils/generate-cart-item";
