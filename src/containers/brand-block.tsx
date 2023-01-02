@@ -3,7 +3,7 @@
 import Carousel from "@components/ui/carousel/carousel";
 import { SwiperSlide } from "swiper/react";
 import CardRoundedLoader from "@components/ui/loaders/card-rounded-loader";
-import { useBrandsQuery } from "@framework/brand/brands.query";
+// import { useBrandsQuery } from "@framework/brand/brands.query";
 import { ROUTES } from "@lib/routes";
 import Alert from "@components/ui/alert";
 import isEmpty from "lodash/isEmpty";
