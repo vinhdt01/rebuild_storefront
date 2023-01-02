@@ -1,9 +1,9 @@
 import Container from "@components/ui/container";
 import { getLayout } from "@components/layout/layout";
-import Subscription from "@components/common/subscription";
+// import Subscription from "@components/common/subscription";
 import ShopsSingleDetails from "@components/shops/shops-single-details";
 
-export { getStaticPaths, getStaticProps } from "@framework/ssr/shop";
+// export { getStaticPaths, getStaticProps } from "@framework/ssr/shop";
 
 export default function ShopDetailsPage({ data }: any) {
   return (
