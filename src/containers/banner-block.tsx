@@ -1,4 +1,4 @@
-import BannerCard from "@components/common/banner-card";
+// import BannerCard from "@components/common/banner-card";
 import { ROUTES } from "@lib/routes";
 import { StaticBanner } from "@framework/types";
 
