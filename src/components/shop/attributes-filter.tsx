@@ -1,5 +1,5 @@
 import React from "react";
-import { Attribute } from "@framework/types";
+// import { Attribute } from "@framework/types";
 import { ColorFilter } from "@components/shop/color-filter";
 import { VariationFilter } from "@components/shop/variation-filter";
 
