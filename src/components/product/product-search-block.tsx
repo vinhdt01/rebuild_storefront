@@ -1,5 +1,5 @@
 import type { FC } from "react";
-import { useProductsInfiniteQuery } from "@framework/products/products.query";
+// import { useProductsInfiniteQuery } from "@framework/products/products.query";
 import { useRouter } from "next/router";
 import { formatPriceRange } from "@lib/format-price-range";
 import SearchTopBar from "@components/shop/top-bar";
