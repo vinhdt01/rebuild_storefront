@@ -1,7 +1,7 @@
 import ProductCard from "@components/product/product-card";
 import Button from "@components/ui/button";
 import type { FC } from "react";
-import { PaginatedProduct } from "@framework/products/products.query";
+// import { PaginatedProduct } from "@framework/products/products.query";
 import ProductFeedLoader from "@components/ui/loaders/product-feed-loader";
 import { useTranslation } from "next-i18next";
 import { Product } from "@framework/types";
