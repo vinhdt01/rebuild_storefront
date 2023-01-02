@@ -5,7 +5,7 @@ import { ShopFilters } from "@components/shop/filters";
 import StickyBox from "react-sticky-box";
 import ActiveLink from "@components/ui/active-link";
 // import { BreadcrumbItems } from "@components/common/breadcrumb";
-import { ROUTES } from "@lib/routes";
+// import { ROUTES } from "@lib/routes";
 import { useTranslation } from "next-i18next";
 import Divider from "@components/ui/divider";
 import ProductSearchBlock from "@components/product/product-search-block";
