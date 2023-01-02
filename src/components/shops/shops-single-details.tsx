@@ -8,7 +8,7 @@ import Container from "@components/ui/container";
 import { Drawer } from "@components/common/drawer/drawer";
 import ShopSidebar from "./shop-sidebar";
 import ShopSidebarDrawer from "./shop-sidebar-drawer";
-import { Shop } from "@framework/types";
+// import { Shop } from "@framework/types";
 import { productPlaceholder } from "@lib/placeholders";
 import { useTranslation } from "next-i18next";
 import ShopProductsGrid from "@components/shops/shop-products-grid";
