@@ -1,16 +1,16 @@
 import Container from "@components/ui/container";
 import { getLayout } from "@components/layout/layout";
-import Subscription from "@components/common/subscription";
+// import Subscription from "@components/common/subscription";
 import { ShopFilters } from "@components/shop/filters";
 import StickyBox from "react-sticky-box";
 import ActiveLink from "@components/ui/active-link";
-import { BreadcrumbItems } from "@components/common/breadcrumb";
+// import { BreadcrumbItems } from "@components/common/breadcrumb";
 import { ROUTES } from "@lib/routes";
 import { useTranslation } from "next-i18next";
 import Divider from "@components/ui/divider";
 import ProductSearchBlock from "@components/product/product-search-block";
 
-export { getStaticProps } from "@framework/ssr/products-filter";
+// export { getStaticProps } from "@framework/ssr/products-filter";
 
 export default function Products() {
   const { t } = useTranslation("common");
