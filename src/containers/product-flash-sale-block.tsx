@@ -2,7 +2,7 @@ import SectionHeader from "@components/common/section-header";
 import ProductCard from "@components/product/product-card";
 import ProductCardGridLoader from "@components/ui/loaders/product-card-grid-loader";
 import Alert from "@components/ui/alert";
-import { useProductsQuery } from "@framework/products/products.query";
+// import { useProductsQuery } from "@framework/products/products.query";
 import { Product } from "@framework/types";
 import { siteSettings } from "@settings/site.settings";
 import { useTranslation } from "next-i18next";
