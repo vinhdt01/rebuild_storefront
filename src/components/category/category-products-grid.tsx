@@ -1,5 +1,5 @@
 import React from "react";
-import { useProductsInfiniteQuery } from "@framework/products/products.query";
+// import { useProductsInfiniteQuery } from "@framework/products/products.query";
 import ProductInfiniteGrid from "@components/product/product-infinite-grid";
 
 type Props = {
