@@ -2,7 +2,7 @@ import BannerCard from "@components/common/banner-card";
 import SectionHeader from "@components/common/section-header";
 import ProductCard from "@components/product/product-card";
 import ProductCardListSmallLoader from "@components/ui/loaders/product-card-small-list-loader";
-import { useProductsQuery } from "@framework/products/products.query";
+// import { useProductsQuery } from "@framework/products/products.query";
 import Alert from "@components/ui/alert";
 import { ROUTES } from "@lib/routes";
 import { siteSettings } from "@settings/site.settings";
