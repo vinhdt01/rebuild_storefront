@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import { useOrderQuery } from "@framework/orders/orders.query";
+// import { useOrderQuery } from "@framework/orders/orders.query";
 import Spinner from "@components/ui/loaders/spinner/spinner";
 import OrderView from "@components/orders/order-view";
 import Divider from "@components/ui/divider";
