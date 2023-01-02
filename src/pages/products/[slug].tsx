@@ -8,7 +8,7 @@ import { useRouter } from "next/router";
 import Spinner from "@components/ui/loaders/spinner/spinner";
 import dynamic from "next/dynamic";
 
-export { getStaticPaths, getStaticProps } from "@framework/ssr/product";
+// export { getStaticPaths, getStaticProps } from "@framework/ssr/product";
 
 const RelatedProducts = dynamic(() => import("@containers/related-products"));
 
