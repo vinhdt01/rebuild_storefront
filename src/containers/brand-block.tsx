@@ -1,5 +1,5 @@
 import Card from "@components/common/card";
-import SectionHeader from "@components/common/section-header";
+// import SectionHeader from "@components/common/section-header";
 import Carousel from "@components/ui/carousel/carousel";
 import { SwiperSlide } from "swiper/react";
 import CardRoundedLoader from "@components/ui/loaders/card-rounded-loader";
